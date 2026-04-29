@@ -1,7 +1,7 @@
 # Goal Tracker Dashboard
 
 
-🔗🔗 **[Live Demo](https://github.com/NadeyaNoorzada/goal-tracker/)**
+🔗 **[Live Demo](https://goal-tracker-6kuh.vercel.app/)**
 ---
 
 ## Features Checklist
