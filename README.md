@@ -33,9 +33,9 @@
 
 ### Desktop
 
-| Dashboard | Goals Page | EditGoals |
+| Dashboard | Goals Page | sign up |
 |-----------|-----------|--------------|
-| ![Dashboard](./public/assets/screenshots/desktop-dashboard.png) | ![Goals](./public/assets/screenshots/desktop-goals.png) | ![Details](./public/assets/screenshots/edit-goal.png) |
+| ![Dashboard](./public/assets/screenshots/desktop-dashboard.png) | ![Goals](./public/assets/screenshots/desktop-goals.png) | ![Details](./public/assets/screenshots/sign-up.png) |
 
 | New Goal | Categories | Settings |
 |----------|-----------|----------|
