@@ -1,7 +1,7 @@
 # Goal Tracker Dashboard
 
 
-🔗 **[Live Demo](https://your-username.github.io/goal-tracker/)** _(update with your actual link)_
+🔗 **[Live Demo]([https://your-username.github.io/goal-tracker/](https://github.com/NadeyaNoorzada/goal-tracker))**
 
 ---
 
