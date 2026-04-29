@@ -1,8 +1,7 @@
 # Goal Tracker Dashboard
 
 
-🔗 **[Live Demo]([https://your-username.github.io/goal-tracker/](https://github.com/NadeyaNoorzada/goal-tracker))**
-
+🔗🔗 **[Live Demo](https://github.com/NadeyaNoorzada/goal-tracker/)**
 ---
 
 ## Features Checklist
