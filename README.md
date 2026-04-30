@@ -46,7 +46,6 @@
 |-------------------|---------------|-----------------|
 | ![Mobile Dashboard](./public/assets/screenshots/mobile-dashboard.png) | ![Mobile Goals](./public/assets/screenshots/mobile-goals.png) | ![Mobile Sidebar](./public/assets/screenshots/mobile-sidebar.png) |
 
-> 📸 **To add screenshots:** Run the app, capture screenshots at different screen sizes, and save them in `public/assets/screenshots/` with the filenames above.
 
 ---
 
@@ -71,35 +70,7 @@
 - Node.js 18+ installed
 - npm (comes with Node.js)
 
-### Installation
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/goal-tracker.git
-cd goal-tracker
-
-# 2. Install dependencies
-npm install
-
-# 3. Start development server
-npm run dev
-```
-
-The app will open at `http://localhost:3000`.
-
-### Build for Production
-
-```bash
-npm run build
-```
-
-Output will be in the `dist/` folder, ready to deploy on Vercel, Netlify, or GitHub Pages.
-
-### Preview Production Build
-
-```bash
-npm run preview
-```
 
 ---
 
